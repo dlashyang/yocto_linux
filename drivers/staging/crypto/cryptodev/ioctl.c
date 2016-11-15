@@ -1166,4 +1166,3 @@ static void __exit exit_cryptodev(void)
 
 module_init(init_cryptodev);
 module_exit(exit_cryptodev);
-
